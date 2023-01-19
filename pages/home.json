@@ -1,0 +1,35 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [],
+  "children": [
+    {
+      "name": "global-modal",
+      "nodeName": "global-modal",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "scJb0Z"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": ""
+      },
+      "styles": [],
+      "children": [],
+      "type": "custom-component",
+      "id": "63c89d1044180f0132ef303a",
+      "expressions": [],
+      "mapLines": []
+    }
+  ]
+}
